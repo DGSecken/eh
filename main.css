@@ -1,0 +1,22 @@
+* {
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    font-size: 34px;
+    font-family: 'Cedarville Cursive', cursive;
+    color: white;
+}
+
+body {
+    width: 1440px;
+    max-width: 100%;
+    background: rgb(56, 29, 56);
+}
+
+img {
+    width: 80%;
+    padding: 0 auto;
+}
